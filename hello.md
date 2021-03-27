@@ -6,6 +6,6 @@ permalink: /hello/
 Hi, I am cholun.
 
 Thanks to:
-1. CDN: Cloudflare
-2. static site generator: Jekyll
-3. hosting: Github
+- CDN: Cloudflare
+- static site generator: Jekyll
+- hosting: Github
