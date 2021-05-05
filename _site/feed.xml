@@ -5,9 +5,34 @@
     <description>Spontaneous and trivial.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Mar 2021 23:20:30 +0800</pubDate>
-    <lastBuildDate>Sat, 27 Mar 2021 23:20:30 +0800</lastBuildDate>
+    <pubDate>Wed, 05 May 2021 16:37:00 +0800</pubDate>
+    <lastBuildDate>Wed, 05 May 2021 16:37:00 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>中山醫院自然分娩費用</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-29-cost-of-a-vaginal-birth-1.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;
+&lt;img src=&quot;/assets/media/2021-04-29-cost-of-a-vaginal-birth-2.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;中山醫院自然分娩費用&quot;&gt;中山醫院自然分娩費用&lt;/h2&gt;
+
+&lt;p&gt;自費項目：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;無痛分娩&lt;/li&gt;
+  &lt;li&gt;月子餐&lt;/li&gt;
+  &lt;li&gt;單人房(202)&lt;/li&gt;
+  &lt;li&gt;材料費：產褥墊、乾紙巾等&lt;/li&gt;
+  &lt;li&gt;小朋友超音波檢查&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;爸爸如果要陪產，須使用樂得兒產房(LDR, Labor delivery recovery room)。中山醫院還有醫師指定費。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/04/29/cost-of-a-vaginal-birth.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/29/cost-of-a-vaginal-birth.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Michelin Pilot Sport 4 SUV</title>
@@ -178,19 +203,6 @@
         <guid isPermaLink="true">http://localhost:4000/2020/04/15/Sanzhi.html</guid>
         
         <category>福德水車生態園區</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>鼎王</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-02-27-hot-pot.jpeg&quot; alt=&quot;鼎王&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Feb 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/02/27/hot-pot.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/02/27/hot-pot.html</guid>
-        
-        <category>鼎王</category>
         
         
       </item>
