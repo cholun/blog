@@ -5,8 +5,8 @@
     <description>Spontaneous and trivial.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 May 2021 18:04:53 +0800</pubDate>
-    <lastBuildDate>Thu, 06 May 2021 18:04:53 +0800</lastBuildDate>
+    <pubDate>Mon, 10 May 2021 20:05:13 +0800</pubDate>
+    <lastBuildDate>Mon, 10 May 2021 20:05:13 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -79,6 +79,62 @@
         <pubDate>Wed, 28 Apr 2021 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2021/04/28/Chung-Shan-Hospital.html</link>
         <guid isPermaLink="true">http://localhost:4000/2021/04/28/Chung-Shan-Hospital.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>橫濱家系大和家拉麵</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-16-iekei-yamatoya.jpeg&quot; alt=&quot;橫濱家系大和家拉麵&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;近期吃過最合口味的拉麵。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/04/16/Iekei-Yamatoya.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/16/Iekei-Yamatoya.html</guid>
+        
+        <category>橫濱家系大和家拉麵</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>專獵牛排</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-13-Hunting-Steak.jpeg&quot; alt=&quot;專獵牛排&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;牛排的肉質比一般平價牛排好。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 13 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/04/13/Hunting-Steak.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/13/Hunting-Steak.html</guid>
+        
+        <category>專獵牛排</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>博多拉麵</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-12-Hakata-Ramen.jpeg&quot; alt=&quot;博多拉麵&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/04/12/Hakata-Ramen.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/12/Hakata-Ramen.html</guid>
+        
+        <category>博多拉麵</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>凪</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-02-Nagi.jpeg&quot; alt=&quot;凪&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Apr 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/04/02/Nagi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/02/Nagi.html</guid>
+        
+        <category>凪</category>
         
         
       </item>
@@ -162,70 +218,6 @@
         <guid isPermaLink="true">http://localhost:4000/2020/12/12/shinn.html</guid>
         
         <category>柑橘 Shinn</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>東京醬油拉麵</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-10-30-no-ramen-no-life.jpeg&quot; alt=&quot;東京醬油拉麵&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;以往吃拉麵都選擇原味的鹹度，但醬油拉麵對我來說真的太鹹惹。下次要安分點清淡口味。&lt;/p&gt;
-</description>
-        <pubDate>Fri, 30 Oct 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/10/30/no-ramen-no-life.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/10/30/no-ramen-no-life.html</guid>
-        
-        <category>東京醬油拉麵</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>AlDente</title>
-        <description>&lt;h2 id=&quot;aldente&quot;&gt;AlDente&lt;/h2&gt;
-
-&lt;p&gt;才用了兩年的Macbook Pro 13，已顯示Service recommended，電池健康度為70%。上一台Macbook Air似乎是到第三年，電池才有明顯衰退。&lt;/p&gt;
-
-&lt;p&gt;自認為沒有很操電腦，或許是都接上電源，讓電池長時間100%的緣故吧。尋求大神時，意外發現AlDente。先前明明有搜尋可以設定充電趴數的軟體，竟然錯過了AlDente。相見恨晚。&lt;/p&gt;
-</description>
-        <pubDate>Sun, 13 Sep 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/13/AlDente.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/13/AlDente.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Mark Levinson</title>
-        <description>&lt;h2 id=&quot;mark-levinson&quot;&gt;Mark Levinson&lt;/h2&gt;
-
-&lt;p&gt;不覺得Mark Levinson有什麼驚艷的音色，因為木耳的關係，本身也沒有無損的音源，就沒有太在意。車上有usb插座可以供電，但每次得解鎖iphone才會充電，頗麻煩。所以我都使用點菸器充電、藍芽連音響。&lt;/p&gt;
-
-&lt;p&gt;最近Airpods右耳的電池不行了，聽十分多鐘沒電，便尋找替代品。逛著逛著，發現一位youtuber提及：藍芽和有線的音質，差異非常明顯。&lt;/p&gt;
-
-&lt;p&gt;於是我開始用有線的方式播音樂。恩，聽起來似乎更清晰，頓點也明顯許多。應該不是我的幻覺。&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Sep 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/01/Mark-Levinson.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/01/Mark-Levinson.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>曼波海灘</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-17-beach.jpeg&quot; alt=&quot;曼波海灘&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;曼波海灘就在民宿的附近，人煙稀少，頗悠哉。或許是疫情影響無法出國，花東的人潮不少。&lt;/p&gt;
-
-&lt;p&gt;人少就讚。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Aug 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/08/17/beach.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/08/17/beach.html</guid>
-        
-        <category>曼波海灘</category>
         
         
       </item>
