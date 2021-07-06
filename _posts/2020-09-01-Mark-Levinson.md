@@ -5,7 +5,7 @@ date:   2020-09-01
 tags:
 - Mark Levinson
 ---
-## Mark Levinson
+# Mark Levinson
 
 不覺得Mark Levinson有什麼驚艷的音色，因為木耳的關係，本身也沒有無損的音源，就沒有太在意。車上有usb插座可以供電，但每次得解鎖iphone才會充電，頗麻煩。所以我都使用點菸器充電、藍芽連音響。
 

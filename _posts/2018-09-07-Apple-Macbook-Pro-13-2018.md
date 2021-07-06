@@ -6,13 +6,13 @@ tags:
 - Apple
 - Macbook Pro
 ---
-## Apple Macbook Pro 13' 2018
+# Apple Macbook Pro 13' 2018
 
 其實Macbook Air的效能夠我用了，但想要有好一點的螢幕，偏偏阿婆好幾年沒更新Macbook Air。看了Macbook的價格，猜想Macbook Air的後繼機種大概也不會多平價。
 
 官網剛更新Macbook Pro時，我本來要買沒更新的non-touchbar，因為pchome打九折，還可以分30期。可是台新那張被我刷爆惹，訂單無法成立。遲疑了一陣子，乾脆直接買新的版本。
 
-### pros
+## pros
 
 1. Pro的面積明顯比Air小
 2. Touch ID方便
@@ -20,7 +20,7 @@ tags:
 4. 鍵盤的配置去掉倉頡，版面好看許多
 5. 筆電的左右兩側都可以充電
 
-### cons
+## cons
 
 1. 變壓器還是很巨大
 2. 實體鍵的ESC、音量、亮度的控制比較順手

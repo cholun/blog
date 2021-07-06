@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="home">
-    
-    {% for post in paginator.posts %} 
+
+    {% for post in paginator.posts %}
     <div class="post-wrapper">
-        <article class="post-content">              
+        <article class="post-content">
             {{ post.content }}
 
             <ul class="date-and-tags">
@@ -33,7 +33,7 @@ layout: default
             {% else %}
             <li class="past-inactive">&#10216; past</li>
             {% endif %}
-        
+
             <!--present-->
             {% if paginator.previous_page %}
             <li class="present"><a href="{{ paginator.previous_page_path }}">present &#10217;</a></li>

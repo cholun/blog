@@ -5,7 +5,7 @@ date:   2019-01-29
 tags:
 - finance
 ---
-## Credit Card 2019 early
+# Credit Card 2019 early
 
 花旗現金：原本拿來逼悠遊卡，但今年三月後悠遊卡似乎不回饋，而且帳單折抵改成我幾乎刷不到的門檻。預計繳費完剪卡。
 

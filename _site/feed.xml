@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cholun's blog</title>
-    <description>Spontaneous and trivial.</description>
+    <description>個人部落格，一個阿肥發廢文的地方。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jul 2021 07:50:58 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Jul 2021 07:50:58 +0800</lastBuildDate>
+    <pubDate>Tue, 06 Jul 2021 09:06:07 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Jul 2021 09:06:07 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>重置SMC解決故障的Trackpad</title>
-        <description>&lt;h2 id=&quot;重置smc解決故障的trackpad&quot;&gt;重置SMC解決故障的Trackpad&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;重置smc解決故障的trackpad&quot;&gt;重置SMC解決故障的Trackpad&lt;/h1&gt;
 
 &lt;p&gt;Macbook Pro 13 (2018)的觸控板無預警的很卡，游標移動的非常緩慢。調整tracking speed、重開機、甚至清NVRAM(PRAM)都無效。&lt;/p&gt;
 
@@ -32,9 +32,9 @@
     
       <item>
         <title>環球敦品產後護理之家</title>
-        <description>&lt;h2 id=&quot;環球敦品產後護理之家&quot;&gt;環球敦品產後護理之家&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;環球敦品產後護理之家&quot;&gt;環球敦品產後護理之家&lt;/h1&gt;
 
-&lt;p&gt;pros&lt;/p&gt;
+&lt;h2 id=&quot;pros&quot;&gt;pros&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;獨棟的月子中心，避開閒雜人等。&lt;/li&gt;
   &lt;li&gt;設備新(2019年底開始營運)。&lt;/li&gt;
@@ -43,7 +43,7 @@
   &lt;li&gt;熱水快：幾乎不用等，洗屁屁很方便。回自己家後，都偷懶用常溫水洗屁股，哈。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;cons&lt;/p&gt;
+&lt;h2 id=&quot;cons&quot;&gt;cons&lt;/h2&gt;
 &lt;ol&gt;
   &lt;li&gt;wifi慢：用Macbook看Youtube會卡卡的。自己帶的台灣之星也差不多鳥。&lt;/li&gt;
   &lt;li&gt;浴室烘乾機(阿拉斯加)的噪音不小。&lt;/li&gt;
@@ -72,7 +72,7 @@
     
       <item>
         <title>氣嘴</title>
-        <description>&lt;h2 id=&quot;氣嘴&quot;&gt;氣嘴&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;氣嘴&quot;&gt;氣嘴&lt;/h1&gt;
 
 &lt;p&gt;SYM Fighter4 2006年牽車至今也15年，里程數約為24,000km。前年有換過前輪的氣嘴，那時運氣不錯，在地下室牽車時便發現前輪沒氣。&lt;/p&gt;
 
@@ -93,7 +93,7 @@
     
       <item>
         <title>痛風-陳啟源醫生</title>
-        <description>&lt;h2 id=&quot;痛風-陳啟源醫生&quot;&gt;痛風-陳啟源醫生&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;痛風-陳啟源醫生&quot;&gt;痛風-陳啟源醫生&lt;/h1&gt;
 
 &lt;p&gt;第一次痛風應該是五年前，發生頻率大約一年1~3次。本身不菸不酒，但會喝飲料吃炸物火鍋等。&lt;/p&gt;
 
@@ -121,7 +121,7 @@
         <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-29-中山醫院自然分娩費用-1.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;
 &lt;img src=&quot;/assets/media/2021-04-29-中山醫院自然分娩費用-2.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;中山醫院自然分娩費用&quot;&gt;中山醫院自然分娩費用&lt;/h2&gt;
+&lt;h1 id=&quot;中山醫院自然分娩費用&quot;&gt;中山醫院自然分娩費用&lt;/h1&gt;
 
 &lt;p&gt;自費項目：&lt;/p&gt;
 &lt;ol&gt;
@@ -147,7 +147,7 @@
     
       <item>
         <title>中山醫院 單人房附沙發(202)</title>
-        <description>&lt;h2 id=&quot;中山醫院-單人房附沙發202&quot;&gt;中山醫院 單人房附沙發(202)&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;中山醫院-單人房附沙發202&quot;&gt;中山醫院 單人房附沙發(202)&lt;/h1&gt;
 
 &lt;p&gt;醫院的房間近期才裝潢，我沒住過其他的待產房，但日常生活的硬體設備差強人意：&lt;/p&gt;
 
