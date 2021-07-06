@@ -4,6 +4,7 @@ title:  "Apple Airpods"
 date:   2017-05-16
 tags:
 - Apple
+- Airpods
 ---
 ![Apple Airpods](/assets/media/2017-05-16-Apple-Airpods.jpg)
 

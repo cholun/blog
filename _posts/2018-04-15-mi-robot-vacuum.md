@@ -3,7 +3,7 @@ layout: post
 title:  "米家掃地機器人"
 date:   2018-04-15
 tags:
-- 
+- mi
 ---
 ![mi robot vacuum](/assets/media/2018-04-15-mi-robot-vacuum.jpg)
 

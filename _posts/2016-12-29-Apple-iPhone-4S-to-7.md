@@ -4,6 +4,7 @@ title:  "Apple iPhone 4S to 7"
 date:   2016-12-29
 tags:
 - Apple
+- iPhone7
 ---
 ## Apple iPhone 4S to 7
 

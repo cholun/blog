@@ -4,6 +4,7 @@ title:  "Macbook Air 2012 mid"
 date:   2018-08-30
 tags:
 - Apple
+- Macbook Air
 ---
 ![Apple Macbook Air 2012 mid](/assets/media/2018-08-30-Apple-Macbook-Air-2012-mid.jpg)
 

@@ -3,7 +3,7 @@ layout: post
 title:  "右艙駕駛"
 date:   2014-08-30
 tags:
-- Japan
+- 右駕
 ---
 
 ![driving in japan](/assets/media/2014-08-30-driving-in-japan.jpg)

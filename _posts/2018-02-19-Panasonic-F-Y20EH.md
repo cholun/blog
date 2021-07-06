@@ -3,7 +3,7 @@ layout: post
 title:  "Panasonic F-Y20EH"
 date:   2018-02-19
 tags:
-- 
+- Panasonic
 ---
 ![Panasonic F-Y20EH](/assets/media/2018-02-19-Panasonic-F-Y20EH.jpg)
 

@@ -5,9 +5,91 @@
     <description>Spontaneous and trivial.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 May 2021 20:21:57 +0800</pubDate>
-    <lastBuildDate>Mon, 10 May 2021 20:21:57 +0800</lastBuildDate>
+    <pubDate>Tue, 06 Jul 2021 07:50:58 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Jul 2021 07:50:58 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>重置SMC解決故障的Trackpad</title>
+        <description>&lt;h2 id=&quot;重置smc解決故障的trackpad&quot;&gt;重置SMC解決故障的Trackpad&lt;/h2&gt;
+
+&lt;p&gt;Macbook Pro 13 (2018)的觸控板無預警的很卡，游標移動的非常緩慢。調整tracking speed、重開機、甚至清NVRAM(PRAM)都無效。&lt;/p&gt;
+
+&lt;p&gt;好在，重置SMC後，觸控板恢復正常。&lt;/p&gt;
+
+&lt;p&gt;總覺得手上這台Macbook問題多多：電池損耗很快、溫度高、時常起飛、偶爾還有機件摩擦的聲音。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Jun 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/06/21/SMC.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/06/21/SMC.html</guid>
+        
+        <category>Apple</category>
+        
+        <category>Macbook Pro</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>環球敦品產後護理之家</title>
+        <description>&lt;h2 id=&quot;環球敦品產後護理之家&quot;&gt;環球敦品產後護理之家&lt;/h2&gt;
+
+&lt;p&gt;pros&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;獨棟的月子中心，避開閒雜人等。&lt;/li&gt;
+  &lt;li&gt;設備新(2019年底開始營運)。&lt;/li&gt;
+  &lt;li&gt;採光好(房號：808)。&lt;/li&gt;
+  &lt;li&gt;櫃檯人員、護理師都不錯。&lt;/li&gt;
+  &lt;li&gt;熱水快：幾乎不用等，洗屁屁很方便。回自己家後，都偷懶用常溫水洗屁股，哈。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;cons&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;wifi慢：用Macbook看Youtube會卡卡的。自己帶的台灣之星也差不多鳥。&lt;/li&gt;
+  &lt;li&gt;浴室烘乾機(阿拉斯加)的噪音不小。&lt;/li&gt;
+  &lt;li&gt;電梯要等：有兩台電梯，其中一台母嬰電梯是媽媽、護理師或寶寶陪同人員專用，其他像是送餐、清潔的阿姨或是外出回來的爸爸等搭的是另一部。&lt;/li&gt;
+  &lt;li&gt;常有鳴笛聲：附近是台北市立聯合醫院和平院區，時常聽到鳴笛聲。&lt;/li&gt;
+  &lt;li&gt;拖鞋不透氣：月子中心附贈的拖鞋頗悶熱。&lt;/li&gt;
+  &lt;li&gt;床太小了：床其實是標準尺寸，但已習慣大尺寸的床，覺得床的橫向寬度太窄。如要queen size的床，只能選擇大一點的房型。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;獨棟的月子中心，沒有和其他辦公室混雜是最大的特點，人流較為單純。自己認為小房型即可，主要是有護理人員可以照料小朋友。現在回想起來，月子中心是我蠻快樂的時光，晚上都把小朋友推回嬰兒室給護理人員照料，自己能有平安夜真爽，不用半夜爬起來喂奶、拍嗝；月子餐通常媽媽吃不完，甚至我太太疑似是吃太補，還長針眼。&lt;/p&gt;
+
+&lt;p&gt;小房型沒有附停車位或機車位，入住和退房時可以暫停地下室的停車位(忘記限高為何，1.8m的休旅車是可以的)。機車的話我是停周遭的停車格。附近有家全聯，但延平南路吃的方面主觀覺得普通。&lt;/p&gt;
+
+&lt;p&gt;入住22天，花費為$NT129,800。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 May 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/05/21/%E7%92%B0%E7%90%83%E6%95%A6%E5%93%81%E7%94%A2%E5%BE%8C%E8%AD%B7%E7%90%86%E4%B9%8B%E5%AE%B6.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/05/21/%E7%92%B0%E7%90%83%E6%95%A6%E5%93%81%E7%94%A2%E5%BE%8C%E8%AD%B7%E7%90%86%E4%B9%8B%E5%AE%B6.html</guid>
+        
+        <category>月子中心</category>
+        
+        <category>環球敦品</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>氣嘴</title>
+        <description>&lt;h2 id=&quot;氣嘴&quot;&gt;氣嘴&lt;/h2&gt;
+
+&lt;p&gt;SYM Fighter4 2006年牽車至今也15年，里程數約為24,000km。前年有換過前輪的氣嘴，那時運氣不錯，在地下室牽車時便發現前輪沒氣。&lt;/p&gt;
+
+&lt;p&gt;今天則是騎乘時，疑惑速度有點拖、後輪時不時抖動。好在有停下來檢查一下，不然連累後座的太太可不好。也算是幸運，天氣沒有太熱，路口即有機車行可以維修。&lt;/p&gt;
+
+&lt;p&gt;氣嘴花費為NT$150，前年在家附近的車行是NT$50。換輪胎時得留意氣嘴的狀況。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 May 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2021/05/13/%E6%B0%A3%E5%98%B4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/05/13/%E6%B0%A3%E5%98%B4.html</guid>
+        
+        <category>SYM</category>
+        
+        <category>Fighter4</category>
+        
+        
+      </item>
     
       <item>
         <title>痛風-陳啟源醫生</title>
@@ -26,16 +108,18 @@
 &lt;p&gt;我想就乖乖吃藥，過陣子回醫院抽血看尿酸有沒有降下來，順便觀察能撐多久不會痛風。&lt;/p&gt;
 </description>
         <pubDate>Mon, 03 May 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/05/03/gout.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/05/03/gout.html</guid>
+        <link>http://localhost:4000/2021/05/03/%E7%97%9B%E9%A2%A8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/05/03/%E7%97%9B%E9%A2%A8.html</guid>
+        
+        <category>痛風</category>
         
         
       </item>
     
       <item>
         <title>中山醫院自然分娩費用</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-29-cost-of-a-vaginal-birth-1.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;
-&lt;img src=&quot;/assets/media/2021-04-29-cost-of-a-vaginal-birth-2.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-04-29-中山醫院自然分娩費用-1.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;
+&lt;img src=&quot;/assets/media/2021-04-29-中山醫院自然分娩費用-2.jpeg&quot; alt=&quot;cost-of-a-vaginal-birth&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;中山醫院自然分娩費用&quot;&gt;中山醫院自然分娩費用&lt;/h2&gt;
 
@@ -51,8 +135,12 @@
 &lt;p&gt;爸爸如果要陪產，須使用樂得兒產房(LDR, Labor delivery recovery room)。中山醫院還有醫師指定費。&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Apr 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/04/29/cost-of-a-vaginal-birth.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/04/29/cost-of-a-vaginal-birth.html</guid>
+        <link>http://localhost:4000/2021/04/29/%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2%E8%87%AA%E7%84%B6%E5%88%86%E5%A8%A9%E8%B2%BB%E7%94%A8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/29/%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2%E8%87%AA%E7%84%B6%E5%88%86%E5%A8%A9%E8%B2%BB%E7%94%A8.html</guid>
+        
+        <category>中山醫院</category>
+        
+        <category>分娩</category>
         
         
       </item>
@@ -77,8 +165,12 @@
 &lt;p&gt;主要是醫護人員不錯：翁醫生讓人安心、大部分的護理師都很貼心，有關心媽媽的整體狀況，也會耐心協助媽媽餵奶。&lt;/p&gt;
 </description>
         <pubDate>Wed, 28 Apr 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/04/28/Chung-Shan-Hospital.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/04/28/Chung-Shan-Hospital.html</guid>
+        <link>http://localhost:4000/2021/04/28/%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2-%E5%96%AE%E4%BA%BA%E6%88%BF%E9%99%84%E6%B2%99%E7%99%BC.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/04/28/%E4%B8%AD%E5%B1%B1%E9%86%AB%E9%99%A2-%E5%96%AE%E4%BA%BA%E6%88%BF%E9%99%84%E6%B2%99%E7%99%BC.html</guid>
+        
+        <category>中山醫院</category>
+        
+        <category>分娩</category>
         
         
       </item>
@@ -135,89 +227,6 @@
         <guid isPermaLink="true">http://localhost:4000/2021/04/02/Nagi.html</guid>
         
         <category>凪</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Michelin Pilot Sport 4 SUV</title>
-        <description>&lt;h2 id=&quot;michelin-pilot-sport-4-suv&quot;&gt;Michelin Pilot Sport 4 SUV&lt;/h2&gt;
-
-&lt;p&gt;這是不客觀的比較：一是輪胎的新舊不同，二是輪胎的尺寸也不同。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;車種：Lexus RX450h 2017&lt;/li&gt;
-  &lt;li&gt;舊胎：Bridgestone Dueler 235/55 R20&lt;/li&gt;
-  &lt;li&gt;新胎：Michelin Pilot Sport SUV 245/50 R20&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;我已忘記原廠配胎剛使用的感覺。牽車的頭兩年順順開，一年的里程約為12,000km，平常停地下室。相對而言，輪胎沒有長時間曝曬。每半年保養時有調胎，胎壓大都在240kpa~270kpa之間。&lt;/p&gt;
-
-&lt;p&gt;大約第四年，行駛約36,000km後，輪胎有跳花的情況，路感較癲、胎噪變大，開起來頗惱人。但仍舊撐到胎肉磨的差不多才更換，總里程約為51,000km。&lt;/p&gt;
-
-&lt;h3 id=&quot;路感舒適&quot;&gt;路感舒適&lt;/h3&gt;
-
-&lt;p&gt;剛換上新胎的感覺是棉，有種行駛在薄地毯上的錯覺。柏油路在舊胎上較有顆粒感，新胎則抹平不少。Pilot Sport字面是運動，給我的印象是舒適。壓過小坑洞、人孔蓋等，新胎處理的更加柔和。&lt;/p&gt;
-
-&lt;p&gt;新光路二段，木柵動物園河堤停車場往政大的方向有幾個減速標線、出雪山隧道下頭城交流道的方向會先經過的水泥鋪面。胎壓同樣是270kpa左右，舊胎有些顛頗，疑惑自己是否開Lexus。新胎則Q彈許多，較少死硬的不適。&lt;/p&gt;
-
-&lt;h3 id=&quot;加速較拖&quot;&gt;加速較拖&lt;/h3&gt;
-
-&lt;p&gt;缺點之一是加速較拖。在市區的限速內差異不大，但上了高速公路，時速約70km之後的再加速明顯拖上不少、滑行的距離也比較短。&lt;/p&gt;
-
-&lt;p&gt;油耗方面似乎些微變差。高速公路台北往返台中，行駛時間為週五和週日晚上，跟上車流（速限+10開，偶爾超過），車多就順著車流。以行車電腦顯示的油耗，舊胎至少有14.2KM/L以上，新胎約為13.8KM/L。不過，新胎跑的次數不多、新胎的圓周長變小，實際差異還得精算。&lt;/p&gt;
-
-&lt;h3 id=&quot;胎噪普普&quot;&gt;胎噪普普&lt;/h3&gt;
-
-&lt;p&gt;或許是習慣舊胎的胎噪聲音，新胎在時速約60KM~80KM之間，胎噪明顯，不至於太吵，但也沒多安靜。與尚未跳花的舊胎相比，時速50km內，或過了80km之後，自己木耳，沒特別感覺。&lt;/p&gt;
-
-&lt;p&gt;也許是錯覺，總覺得新胎容易帶起小石頭，時不時聽到小石頭撞擊輪拱的聲音。&lt;/p&gt;
-
-&lt;h3 id=&quot;更加安穩&quot;&gt;更加安穩&lt;/h3&gt;
-
-&lt;p&gt;由於我大都順順開，激烈操駕方面沒有心得。&lt;/p&gt;
-
-&lt;p&gt;雨天溼滑道路以正常速度而言：建國高架橋長安東路往台大方向，伸縮縫一樣會滑，但面對不平整的道路，新胎確實更為貼地；新店華城路上山，東華聖宮旁的右長彎，舊胎在彎中補油感覺抓不太住，新胎的循跡好很多，可以穩穩地補到出彎。&lt;/p&gt;
-
-&lt;p&gt;除了加速較拖以外，主觀認為高速直線行駛、變換車道、煞車和下交流道的過彎，開起來都更加安穩。&lt;/p&gt;
-
-&lt;h3 id=&quot;貪圖245的胎寬&quot;&gt;貪圖245的胎寬&lt;/h3&gt;
-
-&lt;p&gt;大概是出於節能的考量，原廠使用8J的輪框。想說既然都用到20吋了，輪胎價格相對17、18吋昂貴不少，胎寬還那麼窄，感覺頗虧。同樣是20吋的輪胎，不同胎寬間的報價差異不大，一些熱門胎寬甚至更便宜。&lt;/p&gt;
-
-&lt;p&gt;抱持嚐鮮的心態，也貪圖245的胎寬，除了價格相較其他品牌高價外，目前的感覺是不錯，就看中後期是否會明顯衰退。&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Mar 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/03/27/Michelin-Pilot-Sport-4-SUV.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/03/27/Michelin-Pilot-Sport-4-SUV.html</guid>
-        
-        <category>michelin</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>望龍埤</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2021-01-02-望龍埤.jpeg&quot; alt=&quot;望龍埤&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Jan 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/01/02/%E6%9C%9B%E9%BE%8D%E5%9F%A4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/01/02/%E6%9C%9B%E9%BE%8D%E5%9F%A4.html</guid>
-        
-        <category>望龍埤</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>柑橘 Shinn</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-12-12-Shinn.jpeg&quot; alt=&quot;shinn&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Dec 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/12/12/shinn.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/12/12/shinn.html</guid>
-        
-        <category>柑橘 Shinn</category>
         
         
       </item>

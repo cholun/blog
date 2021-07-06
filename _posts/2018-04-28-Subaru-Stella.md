@@ -3,7 +3,8 @@ layout: post
 title:  "Subaru Stella"
 date:   2018-04-28
 tags:
-- motor
+- Subaru
+- Stella
 ---
 ![Subaru-Stella](/assets/media/2018-04-28-Subaru-Stella.jpg)
 

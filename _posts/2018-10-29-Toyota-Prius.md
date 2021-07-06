@@ -3,7 +3,8 @@ layout: post
 title:  "Toyota Prius"
 date:   2018-10-29
 tags:
-- motor
+- Toyota
+- Prius
 ---
 ![Toyota Prius](/assets/media/2018-10-29-Toyota-Prius.jpg)
 

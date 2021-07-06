@@ -4,6 +4,7 @@ title:  "Apple Macbook Pro 13' 2018"
 date:   2018-09-07
 tags:
 - Apple
+- Macbook Pro
 ---
 ## Apple Macbook Pro 13' 2018
 

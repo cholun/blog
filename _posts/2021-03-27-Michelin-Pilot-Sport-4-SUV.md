@@ -4,6 +4,7 @@ title:  "Michelin Pilot Sport 4 SUV"
 date:   2021-03-27
 tags:
 - michelin
+- Pilot Sport 4 SUV
 ---
 ## Michelin Pilot Sport 4 SUV
 

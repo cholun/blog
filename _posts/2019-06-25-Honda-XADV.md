@@ -3,7 +3,8 @@ layout: post
 title:  "Honda X-ADV"
 date:   2019-06-25
 tags:
--
+- Honda
+- X-ADV
 ---
 ## Honda X-ADV
 

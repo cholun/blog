@@ -3,7 +3,8 @@ layout: post
 title:  "Suzuki Swift"
 date:   2016-03-21
 tags:
-- motor
+- Suzuki
+- Swift
 ---
 ![Suzuki Swift](/assets/media/2016-03-21-Suzuki-Swift.jpg)
 

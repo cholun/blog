@@ -3,7 +3,8 @@ layout: post
 title:  "Toyota Prius C"
 date:   2014-09-01
 tags:
-- motor
+- Toyota
+- Prius C
 ---
 
 ![Toyota Prius C](/assets/media/2014-09-01-Toyota-Prius-C.jpg)
